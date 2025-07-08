@@ -81,5 +81,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Weather data provided by [Weather API]
+- Weather data provided by [OpenWeatherMap API]
 - Icons and animations inspired by modern weather apps
